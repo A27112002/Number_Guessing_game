@@ -12,8 +12,4 @@ The Java-based number guessing game is an interactive console application that e
 
 • User Interface (UI): Text-based, relying on standard input/output features of Java.
 
-• Random Number Generation: Java's Random class used for random number generation.
 
-• User Input Handling: Java's Scanner class handles user input.
-
-• Conditional Statements: Java's if, else if, and else statements provide feedback.
